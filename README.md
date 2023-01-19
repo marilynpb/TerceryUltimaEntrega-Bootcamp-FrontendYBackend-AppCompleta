@@ -1,4 +1,4 @@
-# Proyecto Final Bootcamp Educación IT - Primer entrega (FrontEnd) #
+# Proyecto Final Bootcamp Educación IT - Tercer entrega (FrontEnd + Backend) 100% funcional #
 
 ## Creado por Gloria Marilyn Perez Boyko ##
 
